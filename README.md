@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a frontend developer who loves creating user-f
 
 - 🌱 I'm currently working on [Keycloak](https://www.keycloak.org/)
 - 📚 Learning new technologies
-- 🚀 Open-source enthusiast
+- 🚀 Open-source contributor
 
 ## Technologies
 
