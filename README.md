@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a frontend developer who loves creating user-f
 ## About Me
 
 - 🌱 I'm currently working on [Keycloak](https://www.keycloak.org/)
-- 📚 Learning new technologies
-- 🚀 Open-source contributor
+- 🚀 I'm open-source contributor
+- 📚 I like learning new technologies
 
 ## Technologies
 
