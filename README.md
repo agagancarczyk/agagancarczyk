@@ -24,7 +24,7 @@ I enjoy working with various technologies, including:
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/agagancarczyk)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=agagancarczyk&show_icons=true&theme=dark)](https://github.com/agagancarczyk)
 
 <!--
 **Note: You can customize this template with your own information and style. Include links to your projects, social media profiles, and customize the content to reflect your unique skills and interests.
