@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Agnieszka 👋
+
+Welcome to my GitHub profile! I'm a frontend developer who loves creating user-friendly software.
+
+## About Me
+
+- 🌱 I'm currently working on [Keycloak](https://www.keycloak.org/)
+- 📚 Learning new technologies
+- 🚀 Open-source enthusiast
+
+## Technologies
+
+I enjoy working with various technologies, including:
+
+- React
+- Typescript
+- HTML/CSS
+- Node.js
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/agnieszkagancarczyk/)
+- [Twitter](https://twitter.com/agagancarczyk)
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/agagancarczyk)
 
 <!--
-**agagancarczyk/agagancarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Note: You can customize this template with your own information and style. Include links to your projects, social media profiles, and customize the content to reflect your unique skills and interests.
 -->
